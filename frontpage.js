@@ -7,5 +7,4 @@ function newFunction() {
 }
 function sliderfun() {
  $('.slider').slider();
- indicators: true
 }
