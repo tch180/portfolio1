@@ -5,6 +5,6 @@ $(document).ready(function(){
 function newFunction() {
     $('.carousel').carousel();
 }
-function sliderfun() {
- $('.slider').slider();
-}
+// function sliderfun() {
+//  $('.slider').slider();
+// }
